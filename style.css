@@ -87,6 +87,15 @@ body {
     height: 50%;
 }
 
+.course-card__rate{
+    font-weight: bold;
+}
+
+del{
+    margin-left: 10px;
+    font-weight: lighter;
+}
+
 .topics {
     padding: 10px;
 }
